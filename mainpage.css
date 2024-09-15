@@ -8,6 +8,10 @@
     margin-bottom: 40px;
 }
 
+#photo {
+    border: 5px solid white;
+}
+
 .h3 {
     color: palegreen;
 }
